@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             x:Class="XamarinFormsApp.MainPage">
+             x:Class="XamarinOperaciones.MainPage">
 
     <StackLayout VerticalOptions="Center"
                  HorizontalOptions="Center">
@@ -9,8 +9,11 @@
         <Entry Placeholder="Número 1" x:Name="Num1" Keyboard ="Numeric"/>
         <Entry Placeholder="Número 2" x:Name="Num2" Keyboard="Numeric"/>
         <Entry Placeholder="Resultado" x:Name="Total" IsEnabled="False"/>
-        <Button Text="Suma" Clicked="Button_Click"/>
-        <Button Text="Resta" Clicked="Button_Click2"/>
+        <Button Text="Suma" Clicked="BotonSUMA"/>
+        <Button Text="Resta" Clicked="BotonRESTA"/>
+        <Button Text="Multiplicación" Clicked="BotonMULTIPLICAR"/>
+        <Button Text="División" Clicked="BotonDIVIDIR"/>
+
     </StackLayout>
 
 </ContentPage>

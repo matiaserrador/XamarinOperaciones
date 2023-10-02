@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33516.290
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsApp.Android", "XamarinFormsApp.Android\XamarinFormsApp.Android.csproj", "{1D102F7A-7E01-401C-8986-87B121909B55}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinOperaciones.Android", "XamarinFormsApp.Android\XamarinOperaciones.Android.csproj", "{1D102F7A-7E01-401C-8986-87B121909B55}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinFormsApp.iOS", "XamarinFormsApp.iOS\XamarinFormsApp.iOS.csproj", "{8AB82183-0117-494D-BD58-B2706F3BF964}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XamarinOperaciones.iOS", "XamarinFormsApp.iOS\XamarinOperaciones.iOS.csproj", "{8AB82183-0117-494D-BD58-B2706F3BF964}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinSuma&Resta", "XamarinFormsApp\XamarinSuma&Resta.csproj", "{DC676C6F-1959-436E-9A8C-D6937A7A0745}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XamarinOperaciones", "XamarinFormsApp\XamarinOperaciones.csproj", "{DC676C6F-1959-436E-9A8C-D6937A7A0745}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
