@@ -13,6 +13,10 @@
         <Button Text="Resta" Clicked="BotonRESTA"/>
         <Button Text="Multiplicación" Clicked="BotonMULTIPLICAR"/>
         <Button Text="División" Clicked="BotonDIVIDIR"/>
+        <Button Text="Potencia" Clicked="BotonPOTENCIA"/>
+        <Button Text="Raíz Cuadrada" Clicked="BotonRAIZCUADRADA"/>
+        <Button Text="Porcentaje" Clicked="BotonPORCENTAJE"/>
+        <Button Text="Limpiar" Clicked="BotonClean"/>
 
     </StackLayout>
 
